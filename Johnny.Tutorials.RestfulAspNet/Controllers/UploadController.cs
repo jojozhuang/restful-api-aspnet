@@ -49,7 +49,7 @@ namespace Johnny.Tutorials.RestfulAspNet.Controllers
         {
             ResponseResult rr = new ResponseResult();
             rr.StatusCode = StatusCodes.Status200OK;
-            rr.Message = "http://localhost:5000/images/636494637368678780_controller.jpg";
+            rr.Message = "http://localhost:8080/images/636494637368678780_controller.jpg";
             return Ok(rr);
         }
 
