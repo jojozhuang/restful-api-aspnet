@@ -41,6 +41,14 @@ Open the solution file with Microsoft Visual Studio, compile and run. Access htt
 ]
 ```
 
+# Deploy to Azure
+Follow tutorial [Deploying RESTful API to Azure](http://jojozhuang.github.io/tutorial/restful/deploying-restful-api-to-azure/) to deploy it to [Azure](https://portal.azure.com/).
+
+The available RESTful API on Azure is
+* baseURL: https://gamestore-api.azurewebsites.net/
+
+For example, call https://gamestore-api.azurewebsites.net/api/products to get all products.
+
 # Portfolio
 Read portfolio [Game Store(Angular)](http://jojozhuang.github.io/portfolio/game-store-angular/) or [Game Store(React)](http://jojozhuang.github.io/portfolio/game-store-react/) to learn how these RESTful APIs are consumed by Angular and React applications.
 
