@@ -42,7 +42,7 @@ Open the solution file with Microsoft Visual Studio, compile and run. Access htt
 ```
 
 # Deploy to Azure
-Follow tutorial [Deploying ASP.NET RESTful API to Azure](https://jojozhuang.github.io/tutorial/restful/deploying-aspnet-restful-api-to-azure/) to deploy it to [Azure](https://portal.azure.com/).
+Follow tutorial [Deploying ASP.NET RESTful API to Azure](https://jojozhuang.github.io/tutorial/deploying-aspnet-restful-api-to-azure) to deploy it to [Azure](https://portal.azure.com/).
 
 The available RESTful API on Azure is
 * baseURL: https://gamestore-api.azurewebsites.net/
@@ -50,7 +50,7 @@ The available RESTful API on Azure is
 For example, call https://gamestore-api.azurewebsites.net/api/products to get all products.
 
 # Portfolio
-Read portfolio [Game Store(Angular)](https://jojozhuang.github.io/portfolio/game-store-angular/) or [Game Store(React)](http://jojozhuang.github.io/portfolio/game-store-react/) to learn how these RESTful APIs are consumed by Angular and React applications.
+Read portfolio [Game Store(Angular)](https://jojozhuang.github.io/project/game-store-angular) or [Game Store(React)](http://jojozhuang.github.io/project/game-store-react) to learn how these RESTful APIs are consumed by Angular and React applications.
 
 # Tutorial
-Read tutorial [Building RESTful API with ASP.NET Core](https://jojozhuang.github.io/tutorial/restful/building-restful-api-with-aspnet-core/) to learn how this RESTful API is built.
+Read tutorial [Building RESTful API with ASP.NET Core](https://jojozhuang.github.io/tutorial/building-restful-api-with-aspnet-core) to learn how this RESTful API is built.
